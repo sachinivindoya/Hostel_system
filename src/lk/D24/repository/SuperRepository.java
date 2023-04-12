@@ -1,2 +1,4 @@
-package lk.D24.repository;public interface SuperRepository {
+package lk.D24.repository;
+
+public interface SuperRepository {
 }

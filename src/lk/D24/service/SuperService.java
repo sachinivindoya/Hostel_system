@@ -1,2 +1,4 @@
-package lk.D24.service;public interface SuperService {
+package lk.D24.service;
+
+public interface SuperService {
 }

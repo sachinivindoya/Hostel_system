@@ -1,2 +1,5 @@
-package lk.D24.repository;public enum RepositoryType {
+package lk.D24.repository;
+
+public enum RepositoryType {
+    STUDENT
 }

@@ -1,2 +1,6 @@
-package lk.D24.entity;public interface SuperEntity {
+package lk.D24.entity;
+
+import java.io.Serializable;
+
+public interface SuperEntity extends Serializable {
 }
